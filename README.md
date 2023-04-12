@@ -6,4 +6,4 @@ The project involved developing a smaller version of Google Maps, specifically t
 
 Overall, the project aimed to demonstrate the practical application of data structures and algorithms in a real-world setting.
 
-![alt text](https://github.com/arjundoshi221/google_maps_dsa/blob/main/media/map_layout.png)
+![alt text](https://github.com/arjundoshi221/google_maps_dsa/blob/main/media/Google%20Maps!.png)
